@@ -8,6 +8,19 @@ $(document).ready(function(){
 	$('body').fly();
 });
 
+Option you may use
+
+animateSpeed: Speed fo animation .1 to 1
+
+imageToShow: Numbers of Images
+
+imageWidth: Height of image in pixel
+
+imageHeight: Width of image in pixel
+		
+images: Array of images url.
+		
+responsive: For numbers of images while screen size changes.
 
 ## Installation
 
